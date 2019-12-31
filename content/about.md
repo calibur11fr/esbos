@@ -1,21 +1,24 @@
 ---
-title: About
-date: 2019-07-09
+title: Marketing is not everything
 menu: main
+draft: true
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app) and [Hyde](https://github.com/Cecilapp/theme-hyde).
+>
+>
+> > There are these words that have value for everyone . You still do marketing. You will still use pictures, photos, videos, audio... nothing will change except one. You'll use words that have value. Or not, then you'll only have a nice cover for one big NIC. In a world where everyone uses the same communication formats, tools and services, what distinguishes one from another is what they communicate.
 
-## How to use?
+Do these words have value for the customer. Because it ultimately determines whether he will want to convert his money into this value. The customer doesn't buy the character, the film only the value, so focus on it.
 
-### Managing content with [Forestry](https://forestry.io)
+How many words in wikipedia - so many words do you have. How to choose the right ones today to gain the customer's trust and money? You can find the answer in the Value Power. But there is something else. It could be that lobster syndrome affects you very personally. That you've lost in the fight against copywriting. And there's been a change in your brain under the influence of that loser. But you're not lobster. And that the change due to your loss is not permanent. You can start over.
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://app.forestry.io/quick-start?repo=cecilapp/starter-blog)
 
-### Deploy with [Netlify](https://www.netlify.com)
+![My Old City Photo](/images/screenshot-from-2019-12-31-16-13-18.png "My Old City Photo")
 
-Otherwise, if your goal is deploying a new blog quickly, and manage content mannually, use the following button to configure and deploy your new blog on Netlify.
+My name is Antuan Greyman.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Cecilapp/starter-blog)
+I teach marketing. I love computer games. I can't live without listening to music.
 
+What am I writing about? About the modern world of the young. About technology, computers, games, but mainly about promoting your own IAM. How many words in wikipedia - so many words do you have. How to choose the right ones today to gain the customer's trust and money? You can find the answer in the Value Power. But there is something else. It could be that lobster syndrome affects you very personally. That you've lost in the fight against copywriting. And there's been a change in your brain under the influence of that loser. But you're not lobster. And that the change due to your loss is not permanent. You can start over.
+
+)
