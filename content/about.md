@@ -1,7 +1,7 @@
 ---
 title: Marketing is not everything
 menu: main
-draft: true
+draft: false
 ---
 > > There are these words that have value for everyone . You still do marketing. You will still use pictures, photos, videos, audio... nothing will change except one. You'll use words that have value. Or not, then you'll only have a nice cover for one big NIC. In a world where everyone uses the same communication formats, tools and services, what distinguishes one from another is what they communicate.
 
