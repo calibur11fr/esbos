@@ -1,0 +1,4 @@
+# These rules will change if you change your site’s custom domains or HTTPS settings
+
+# Redirect default Netlify subdomain to primary domain
+https://gifted-bell-7fef99.netlify.com/* https://esbos.org/:splat 301!
