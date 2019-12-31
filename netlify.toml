@@ -9,4 +9,8 @@
 [context.branch-deploy]
   command = "chmod +x .netlify/build.sh && bash .netlify/build.sh $DEPLOY_PRIME_URL"
 
-
+[[redirects]]
+  from = "https://gifted-bell-7fef99.netlify.com"
+  to = "https://esbos.org"
+  status = 301
+  force = true
